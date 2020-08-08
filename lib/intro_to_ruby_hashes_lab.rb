@@ -4,7 +4,7 @@ end
 
 def my_hash
   hash = {
-    :Juventus = "old"
+    Juventus: "old"
   }
 end
 
